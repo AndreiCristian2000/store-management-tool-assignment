@@ -1,4 +1,4 @@
-# Store Management Tool API
+# Store Management Tool
 
 A simple Spring Boot application for managing a store's products.  
 This project is backend-only, built with Maven, and includes security, logging, and unit tests.
