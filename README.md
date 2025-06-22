@@ -13,7 +13,7 @@ The application structure is divided into model, service, repository, controller
 - Global error handling using RestControllerAdvice
 - Logging via SLF4J
 - Unit and controller tests using JUnit 5 and Mockito
-- Credentials must be sent using the `Authorization: Basic ...` header.
+- Credentials must be sent using the `Authorization: Basic ...` header
 
 ## API Endpoints
 
