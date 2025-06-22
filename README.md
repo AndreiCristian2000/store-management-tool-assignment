@@ -1,7 +1,7 @@
 # Store Management Tool
 
 A simple Spring Boot application for managing a store's products.  
-This project is backend-only, built with Maven, and includes security, logging, and unit tests.
+This project is backend-only, built with Maven, and includes security, logging, and unit tests.  
 The application structure is divided into model, service, repository, controller, exception, and config packages.
 
 ## Technical Details
